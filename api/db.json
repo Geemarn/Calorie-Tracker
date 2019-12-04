@@ -1,0 +1,24 @@
+{
+  "items": [
+    {
+      "name": "cookies",
+      "calorie": 1200,
+      "id": 1
+    },
+    {
+      "name": "cookies",
+      "calorie": 1200,
+      "id": 2
+    },
+    {
+      "name": "rice",
+      "calorie": 200,
+      "id": 3
+    },
+    {
+      "name": "rice",
+      "calorie": 350,
+      "id": 4
+    }
+  ]
+}

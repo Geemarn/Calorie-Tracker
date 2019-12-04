@@ -1,0 +1,24 @@
+.padding {
+  padding: 5px;
+  font-weight: 500;
+}
+
+.edit-text {
+  color: green;
+}
+
+#name {
+  text-transform: capitalize;
+}
+.container {
+  min-height: calc(90vh - 70px);
+}
+
+.footer {
+  line-height: 50px;
+  font-weight: 600;
+}
+
+#back-btn {
+  display: none;
+}

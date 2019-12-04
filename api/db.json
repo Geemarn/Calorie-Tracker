@@ -1,9 +1,3 @@
 {
-  "items": [
-    {
-      "name": "chicken",
-      "calorie": 1200,
-      "id": 1
-    }
-  ]
+  "items": []
 }

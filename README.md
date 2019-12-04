@@ -12,4 +12,8 @@ Install the dependencies
 #open another cmd and run
 npm run json:starter
 
+#NB: clear all button does not working with json-server for now..
+
 #cheers!!!
+
+# A.Adegoke (GeeFlex Inc.)
